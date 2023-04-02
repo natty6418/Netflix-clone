@@ -1,5 +1,5 @@
 # Netflix-Clone6418
-![alt text](./image.png)
+![alt text](./NetFlix.png)
 
 
 ![alt text](./Netflix2.png)
